@@ -1,0 +1,22 @@
+{
+  "name": "dfy-20250625-3609-app",
+  "version": "1.0.0",
+  "description": "Premium Lovable Application",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@supabase/supabase-js": "^2.7.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^3.0.0",
+    "typescript": "^4.9.0",
+    "vite": "^4.0.0"
+  }
+}
